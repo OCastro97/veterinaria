@@ -24,15 +24,15 @@
             </div>
 
             <div class="font-bold">
-                <x-nav href="/">Inicio</x-nav>
-                <x-nav href="/servicio">Servicio</x-nav>
-                <x-nav href="/nosotros">Nosotros</x-nav>
-                <x-nav href="/contacto">Contacto</x-nav>
+                <x-nav href="/medic">Historial</x-nav>
+                <x-nav href="/medic/crear">Crear</x-nav>
+                <x-nav href="/medic/usuarios">Usuarios</x-nav>
+                <x-nav href="/medic/configuracion">Configuracion</x-nav>
             </div>
 
             <div>
 
-                <x-buttom href="/medic/">Log In</x-buttom>
+                <x-buttom href="/index">Log Out</x-buttom>
             </a>
             </div>
         </nav>
